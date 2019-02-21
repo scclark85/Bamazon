@@ -6,7 +6,7 @@ Managers will be able to check inventory, add inventory, and change prices.  The
 
 Programs used for this application includ Node.js and MySQL. 
 
-![alt text](Bamazon/images/mysql.png)
+![alt text](images/mysql.png)
 
 [CLICK TO SEE BAMAZON](https://drive.google.com/file/d/1fWKamO3ddC3I4dVf4qVpvpiQavcc7HZU/view?usp=sharing)
 
